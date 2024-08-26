@@ -1,0 +1,7 @@
+.env
+chromedriver.exe
+
+data/
+logs/
+__pycache__/
+venv/
